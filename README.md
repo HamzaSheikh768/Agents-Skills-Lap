@@ -30,11 +30,10 @@ The goal of this project is to:
 ## 🗂️ Project Structure (High-level)
 
 Agents-Skills-Lap/
-│
-├── agents/ # Agent definitions and logic
-├── skills/ # Reusable skills/tools for agents
-├── prompts/ # Prompt templates and experiments
-└── README.md
+├─ agents/         # Agent definitions and logic
+├─ skills/         # Reusable skills/tools for agents
+├─ prompts/        # Prompt templates and experiments
+└─ README.md
 
 
 > Structure may evolve as the lab grows.
